@@ -1,0 +1,3 @@
+Saber el precio de venta de una prenda
+Saber el tipo de una prenda
+Saber ganancia de un dia
